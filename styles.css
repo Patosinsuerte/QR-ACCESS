@@ -22,14 +22,14 @@ body{
     border-radius: 20px;
 }
 
-.main{
+.body{
     display: block;
     width: 250px;
     margin-right: auto;
     margin-left: auto;
 }
 
-.main__text{
+.body__text{
     font-size: 1.3rem;
     margin-top: 25px;
     margin-bottom: 25px;
@@ -57,10 +57,10 @@ body{
     .container__image{
         width: 180px;
     }
-    .main{
+    .body{
         width: 200px;
     }
-    .main__text{
+    .body__text{
         font-size: 1rem;
     }
     .footer__text{
